@@ -4,9 +4,9 @@ import './styles/main.css';
 
 function App() {
   return (
-    <div className="container is-fluid">
-      <Todo />
-    </div>
+      <div className="container is-fluid">
+        <Todo />
+      </div>
   );
 }
 
